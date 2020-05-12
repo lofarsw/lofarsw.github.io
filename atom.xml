@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>https://phlow.github.io/</id>
+	<title>LOFAR Solar and Space Weather KSP</title>
+	<updated>2020-05-13T00:14:54+08:00</updated>
+
+	<subtitle>The KSP “Solar Physics and Space Weather with LOFAR” intends to use LOFAR for solar and Space Weather studies. The tasks include the definition of solar observing modes, the development of the necessary software and making the observations available to the scientific community.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Peijin Zhang</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="https://phlow.github.io/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="https://phlow.github.io/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
+
+	
+</feed>
