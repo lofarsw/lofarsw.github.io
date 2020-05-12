@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/404.html</loc>
+	<loc>https://lofarsw.github.io/404.html</loc>
 	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/blog/archive/</loc>
+	<loc>https://lofarsw.github.io/blog/archive/</loc>
 	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/atom.xml</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,298 +37,9 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/changelog/</loc>
+	<loc>https://lofarsw.github.io/atom.xml</loc>
 	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/contact/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/data/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/design/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/documentation/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/feed.xml</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/headers/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/humans.txt</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/blog/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/info/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/obsca/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/obsmi/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/pub/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/redirect-page/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/roadmap/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/robots.txt</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/science/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/search/</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://phlow.github.io/sitemap.xml</loc>
-	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -360,9 +54,315 @@
 
 	
 	<url>
-	<loc>https://phlow.github.io/team/</loc>
+	<loc>https://lofarsw.github.io/changelog/</loc>
 	
-		<lastmod>2020-05-13T00:14:54+08:00</lastmod>
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/contact/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/data/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/design/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/documentation/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/feed.xml</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/headers/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/humans.txt</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/blog/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/info/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/obsca/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/obsmi/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/pub/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/redirect-page/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/roadmap/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/robots.txt</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/science/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/search/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/sitemap.xml</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/team/</loc>
+	
+		<lastmod>2020-05-13T00:26:14+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://phlow.github.io/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://lofarsw.github.io/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://phlow.github.io/assets/js/modernizr.min.js"></script>
+	<script src="https://lofarsw.github.io/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,58 +38,50 @@
 	
 	
 	
-	<link rel="canonical" href="https://phlow.github.io/assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://lofarsw.github.io/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="The KSP “Solar Physics and Space Weather with LOFAR” intends to use LOFAR for solar and Space Weather studies. The tasks include the definition of solar observing modes, the development of the necessary software and making the observations available to the scientific community.">
-	<meta property="og:url" content="https://phlow.github.io/assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://lofarsw.github.io/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="LOFAR Solar and Space Weather KSP">
 	
-	<meta property="article:author" content="https://www.facebook.com/phlow.media">
+	
 
 
 	
-	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="phlow">
-	<meta name="twitter:creator" content="phlow">
-	<meta name="twitter:title" content="Atom Feed (Styled)">
-	<meta name="twitter:description" content="The KSP “Solar Physics and Space Weather with LOFAR” intends to use LOFAR for solar and Space Weather studies. The tasks include the definition of solar observing modes, the development of the necessary software and making the observations available to the scientific community.">
-	
-	
 
-	<link type="text/plain" rel="author" href="https://phlow.github.io/humans.txt">
+	<link type="text/plain" rel="author" href="https://lofarsw.github.io/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://phlow.github.io/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="https://lofarsw.github.io/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://phlow.github.io/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="https://lofarsw.github.io/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://phlow.github.io/assets/img/apple-touch-icon-180x180.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://lofarsw.github.io/assets/img/apple-touch-icon-180x180.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://phlow.github.io/assets/img/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://lofarsw.github.io/assets/img/apple-touch-icon-152x152.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://phlow.github.io/assets/img/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://lofarsw.github.io/assets/img/apple-touch-icon-144x144.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://phlow.github.io/assets/img/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://lofarsw.github.io/assets/img/apple-touch-icon-120x120.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://phlow.github.io/assets/img/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://lofarsw.github.io/assets/img/apple-touch-icon-114x114.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://phlow.github.io/assets/img/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://lofarsw.github.io/assets/img/apple-touch-icon-76x76.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://phlow.github.io/assets/img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://lofarsw.github.io/assets/img/apple-touch-icon-72x72.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://phlow.github.io/assets/img/apple-touch-icon.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://lofarsw.github.io/assets/img/apple-touch-icon.png">	
 
-	<meta name="msapplication-TileImage" content="https://phlow.github.io/assets/img/mstile-144x144.png">
+	<meta name="msapplication-TileImage" content="https://lofarsw.github.io/assets/img/mstile-144x144.png">
 
 	<meta name="msapplication-TileColor" content="#ffffff">
 
@@ -105,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://phlow.github.io" class="icon-tree"> LOFAR Solar and Space Weather KSP</a></h1>
+      <h1 class="show-for-small-only"><a href="https://lofarsw.github.io" class="icon-tree"> LOFAR Solar and Space Weather KSP</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -172,7 +164,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://phlow.github.io/search/">Search</a></li>
+              <li><a  href="https://lofarsw.github.io/search/">Search</a></li>
 
             
             
@@ -188,7 +180,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://phlow.github.io/contact/">Contact</a></li>
+              <li><a  href="https://lofarsw.github.io/contact/">Contact</a></li>
 
             
             
@@ -207,7 +199,7 @@
 
             
             
-              <li><a  href="https://phlow.github.io/">Start</a></li>
+              <li><a  href="https://lofarsw.github.io/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -222,7 +214,7 @@
 
             
             
-              <li><a  href="https://phlow.github.io/science/">Science</a></li>
+              <li><a  href="https://lofarsw.github.io/science/">Science</a></li>
               <li class="divider"></li>
 
             
@@ -239,14 +231,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://phlow.github.io/obsmi/">Observation</a>
+                <a  href="https://lofarsw.github.io/obsmi/">Observation</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://phlow.github.io/obsca/">Current Observing Campaign</a></li>
+                      <li><a  href="https://lofarsw.github.io/obsca/">Current Observing Campaign</a></li>
                     
                   </ul>
 
@@ -263,7 +255,7 @@
 
             
             
-              <li><a  href="https://phlow.github.io/pub/">Publication</a></li>
+              <li><a  href="https://lofarsw.github.io/pub/">Publication</a></li>
               <li class="divider"></li>
 
             
@@ -278,7 +270,7 @@
 
             
             
-              <li><a  href="https://phlow.github.io/data/">Data Analysis</a></li>
+              <li><a  href="https://lofarsw.github.io/data/">Data Analysis</a></li>
               <li class="divider"></li>
 
             
@@ -293,7 +285,7 @@
 
             
             
-              <li><a  href="https://phlow.github.io/team/">Team</a></li>
+              <li><a  href="https://lofarsw.github.io/team/">Team</a></li>
               <li class="divider"></li>
 
             
@@ -323,8 +315,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://phlow.github.io/" title="LOFAR Solar and Space Weather KSP – Make the Radio Observation for the Sun Happen">
-				<img src="https://phlow.github.io/assets/img/logo.png" alt="LOFAR Solar and Space Weather KSP – Make the Radio Observation for the Sun Happen">
+			<a id="logo" href="https://lofarsw.github.io/" title="LOFAR Solar and Space Weather KSP – Make the Radio Observation for the Sun Happen">
+				<img src="https://lofarsw.github.io/assets/img/logo.png" alt="LOFAR Solar and Space Weather KSP – Make the Radio Observation for the Sun Happen">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -402,7 +394,7 @@
 
             <p class="shadow-black">
               The KSP “Solar Physics and Space Weather with LOFAR” intends to use LOFAR for solar and Space Weather studies. The tasks include the definition of solar observing modes, the development of the necessary software and making the observations available to the scientific community.
-              <a href="https://phlow.github.io/info/">More ›</a>
+              <a href="https://lofarsw.github.io/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -426,27 +418,27 @@
               
                 
                   <li >
-                    <a href="https://phlow.github.io"  title=""></a>
+                    <a href="https://lofarsw.github.io"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io/contact/"  title="Contact">Contact</a>
+                    <a href="https://lofarsw.github.io/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="https://lofarsw.github.io/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="https://lofarsw.github.io/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://phlow.github.io/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="https://lofarsw.github.io/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -466,7 +458,7 @@
             
               
                 <li >
-                  <a href="https://phlow.github.io"  title=""></a>
+                  <a href="https://lofarsw.github.io"  title=""></a>
                 </li>
             
               
@@ -499,7 +491,7 @@
 		
 
 
-<script src="https://phlow.github.io/assets/js/javascript.min.js"></script>
+<script src="https://lofarsw.github.io/assets/js/javascript.min.js"></script>
 
 
 
