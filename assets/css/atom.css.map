@@ -3,11 +3,11 @@
 	"file": "atom.css",
 	"sources": [
 		"atom.scss",
-		"../KSPsite/_sass/_functions.scss",
-		"../KSPsite/_sass/_01_settings_colors.scss",
-		"../KSPsite/_sass/_02_settings_typography.scss",
-		"../KSPsite/_sass/_03_settings_mixins_media_queries.scss",
-		"../KSPsite/_sass/_04_settings_global.scss"
+		"_sass/_functions.scss",
+		"_sass/_01_settings_colors.scss",
+		"_sass/_02_settings_typography.scss",
+		"_sass/_03_settings_mixins_media_queries.scss",
+		"_sass/_04_settings_global.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n@import \"functions.scss\";\n\n$include-html-classes: false;\n@import \"01_settings_colors.scss\";\n@import \"02_settings_typography.scss\";\n@import \"03_settings_mixins_media_queries.scss\";\n@import \"04_settings_global.scss\";\n\n* {\n\tdisplay: block;\n}\n\n:root {\n\tmargin: 3em;\n\tbackground: $body-bg;\n\tcolor: $body-font-color;\n\tfont-family: $body-font-family;\n}\n\nfeed {\n\t> title {\n\t\ttext-align: center;\n\t\tcolor: lighten($primary-color, 25%);\n\t\tfont-family: $header-font-family;\n\t\tfont-size: $font-size-h1 * 1.5;\n\t\tfont-weight: bolder;\n\t\t&::before {\n\t\t\tcontent: 'Atom Feed for ';\n\t\t\tfont-weight: initial;\n\t\t}\n\t\t&::after {\n\t\t\tcontent: \"This Atom feed is meant to be used by RSS reader applications and websites.\";\n\t\t\tdisplay: block;\n\t\t\tpadding: 1em;\n\t\t\tbackground-color: $alert-color;\n\t\t\tcolor: #fff;\n\t\t\tfont-family: initial;\n\t\t\tfont-size: initial;\n\t\t\tletter-spacing: initial;\n\t\t}\n\t}\n\t\n\t> id,\n\t> updated,\n\t> subtitle,\n\t> author,\n\t> link,\n\t> generator {\n\t\tdisplay: none;\n\t}\n}\n\nentry {\n\tpadding: 1em 0;\n\tborder-bottom: 1px solid invert($body-bg);\n\t&:last-child {\n\t\tborder-bottom: none;\n\t}\n\n\t> title {\n\t\tcolor: $secondary-color;\n\t\tfont-family: $header-font-family;\n\t\tfont-size: $font-size-h1;\n\t\tmargin-bottom: 0.5em;\n\t}\n\n\t> link::after {\n\t\tcontent: attr(href);\n\t\tcolor: $primary-color;\n\t}\n\n\t> updated {\n\t\tcolor: $grey-5;\n\t\tfont-size: small;\n\t}\n\n\t> summary {\n\t\tmargin-top: 1em;\n\t}\n\n\t> id,\n\t> author,\n\t> category,\n\t> published,\n\t> content {\n\t\tdisplay: none;\n\t}\n}\n",
