@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://lofarsw.github.io/sitemap.xml
+Sitemap: http://localhost:8001/sitemap.xml

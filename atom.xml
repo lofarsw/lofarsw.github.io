@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://lofarsw.github.io/</id>
+	<id>http://localhost:8001/</id>
 	<title>LOFAR Solar and Space Weather KSP</title>
-	<updated>2020-05-20T20:35:15+08:00</updated>
+	<updated>2020-05-31T09:36:17+08:00</updated>
 
 	<subtitle>The KSP “Solar Physics and Space Weather with LOFAR” intends to use LOFAR for solar and Space Weather studies. The tasks include the definition of solar observing modes, the development of the necessary software and making the observations available to the scientific community.</subtitle>
 
@@ -19,8 +19,8 @@
 		</author>
 	
 
-	<link href="https://lofarsw.github.io/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="https://lofarsw.github.io/" rel="alternate" type="text/html" />
+	<link href="http://localhost:8001/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:8001/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 

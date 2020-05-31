@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lofarsw.github.io/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://lofarsw.github.io/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:8001/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:8001/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>LOFAR Solar and Space Weather KSP</title>
 		<description>The KSP “Solar Physics and Space Weather with LOFAR” intends to use LOFAR for solar and Space Weather studies. The tasks include the definition of solar observing modes, the development of the necessary software and making the observations available to the scientific community.</description>
-		<link>https://lofarsw.github.io/</link>
-		<atom:link href="https://lofarsw.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:8001/</link>
+		<atom:link href="http://localhost:8001/feed.xml" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
