@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:8001/404.html</loc>
+	<loc>https://lofarsw.github.io/404.html</loc>
 	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:8001/blog/archive/</loc>
+	<loc>https://lofarsw.github.io/blog/archive/</loc>
 	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/atom.xml</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,268 +37,9 @@
 
 	
 	<url>
-	<loc>http://localhost:8001/changelog/</loc>
+	<loc>https://lofarsw.github.io/atom.xml</loc>
 	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/contact/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/data/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/feed.xml</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/headers/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/humans.txt</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/blog/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/info/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/obsca/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/obsmi/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/pub/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/redirect-page/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/roadmap/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/robots.txt</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/science/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/search/</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:8001/sitemap.xml</loc>
-	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,9 +54,285 @@
 
 	
 	<url>
-	<loc>http://localhost:8001/team/</loc>
+	<loc>https://lofarsw.github.io/changelog/</loc>
 	
-		<lastmod>2020-05-31T09:36:17+08:00</lastmod>
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/contact/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/data/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/feed.xml</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/headers/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/humans.txt</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/blog/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/info/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/obsca/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/obsmi/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/pub/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/redirect-page/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/roadmap/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/robots.txt</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/science/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/search/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/sitemap.xml</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://lofarsw.github.io/team/</loc>
+	
+		<lastmod>2020-05-31T09:50:12+08:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
