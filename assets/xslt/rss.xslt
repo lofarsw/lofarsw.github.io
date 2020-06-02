@@ -407,12 +407,6 @@
             
               
             
-              
-            
-              
-            
-              
-            
 
               <ul class="no-bullet shadow-black">
               
@@ -424,21 +418,6 @@
                 
                   <li >
                     <a href="https://lofarsw.github.io/contact/"  title="Contact">Contact</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="https://lofarsw.github.io/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="https://lofarsw.github.io/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="https://lofarsw.github.io/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
